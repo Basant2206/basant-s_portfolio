@@ -61,7 +61,7 @@ const Hero = () => {
                 <span style={styles.highlight}>& AI Engineer</span>
             </h1>
             <p style={styles.subtitle}>
-                Results-driven Data Scientist (ISI Kolkata alumnus) building end-to-end ML pipelines and scaling AI solutions with Reinforcement Learning and Generative AI.
+                Results driven Data Scientist (ISI Kolkata alumnus) building end-to-end ML pipelines and scaling AI solutions.
             </p>
             <button
                 style={styles.cta}

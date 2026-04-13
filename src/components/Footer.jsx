@@ -32,10 +32,12 @@ const Footer = () => {
                 <a href="https://www.github.com/Basant2206" style={styles.link}>GitHub</a>
                 <a href="#" style={styles.link}>Kaggle</a> 
                 <a href="#" style={styles.link}>Twitter</a>
+                
             </div>
             <p style={styles.text}>
                 © {new Date().getFullYear()} All right reserved to Basant lal prajapati.
             </p>
+            
         </footer>
     );
 };

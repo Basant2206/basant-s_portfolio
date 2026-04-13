@@ -72,7 +72,7 @@ const Skills = () => {
                                             e.target.style.color = 'var(--bg-primary)';
                                         }}
                                         onMouseLeave={(e) => {
-                                            e.target.style.backgroundColor = 'rgba(255, 255, 255, 0.05)';
+                                            e.target.style.backgroundColor = 'rgba(235, 225, 225, 0.15)';
                                             e.target.style.color = 'var(--text-secondary)';
                                         }}
                                     >

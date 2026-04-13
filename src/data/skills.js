@@ -9,7 +9,7 @@ export const skills = [
     },
     {
         category: "Data & Visualization",
-        items: ["Pandas", "NumPy", "Power BI", "Matplotlib", "Seaborn", "Data Analysis"]
+        items: ["Pandas", "NumPy", "Power BI", "Matplotlib", "Seaborn", "Data Analysis", "Probability", "Statistics"]
     },
     {
         category: "Tools & Frameworks",
